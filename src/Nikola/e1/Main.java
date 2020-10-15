@@ -1,4 +1,4 @@
-package Nikola;
+package Nikola.e1;
 
 public class Main {
 
