@@ -20,7 +20,7 @@ public class main10 {
             System.out.println("If it is still 2020. You was born: " + byear);
 
             //calc scanner
-            System.out.println("Enter 2 numbers(use enter after the every number! only 2!: ) ");
+            System.out.println("Enter 2 numbers(use enter after the every number!: ) ");
             float n1 = SCA.nextFloat();
             float n2 = SCA.nextFloat();
             float sum = n1 + n2;
